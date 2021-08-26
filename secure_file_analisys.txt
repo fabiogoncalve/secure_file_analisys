@@ -1,0 +1,20 @@
+CRISP-DM Reporting
+Business Phase
+Log file from machine under attack
+Frequency to change password
+Understanding phase
+Jun 22 12:36:51 moodle sshd[11809]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=182.100.67.52  user=root
+
+Preparation phase
+Date
+User
+IP
+Analise Phase
+
+Graphical analysis of login failure except 'root'
+Evolution of attack per time
+Attempts per IP addr
+Conclusion
+
+* Password secure ? Rotation freq need?
+
